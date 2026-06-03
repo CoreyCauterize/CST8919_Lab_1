@@ -1,7 +1,7 @@
 # CST8919 Lab 1: Implementing User Login with Flask and Auth0
 Corey Mark-Stewart
 
-[Video](https://www.google.com/)
+[Video](https://youtu.be/0Jw4v3ZA_7o)
 
 ## Instructions
 ### Set up yout enviroment
